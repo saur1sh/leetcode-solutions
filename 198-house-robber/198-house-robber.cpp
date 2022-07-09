@@ -1,4 +1,5 @@
 class Solution {
+    int mem[100]={-1};
     
 public:
     int rob(vector<int>& nums) {
