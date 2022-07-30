@@ -7,11 +7,11 @@ public:
             if(m1.find(target-nums[i])!=m1.end()){
                 arr.push_back(m1[target-nums[i]]);
                 arr.push_back(i);
-                return arr;
+                break;
             }
             else
                 m1[nums[i]] = i;
         }
-        return vector<int> {};
+        return arr;
     }
 };
