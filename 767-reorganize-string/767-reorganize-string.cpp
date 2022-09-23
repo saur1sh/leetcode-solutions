@@ -13,7 +13,7 @@ public:
             pq.push({c.second, c.first});
         }
         
-        pair<int, char> prevMax = {0, '#'};
+        pair<int, char> prevMax = {0, 'n'};
         string ans = "";
         while(pq.size()){
             pair<int, char> temp = pq.top();
