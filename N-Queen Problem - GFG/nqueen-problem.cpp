@@ -12,46 +12,46 @@ class Solution{
 public:
     
     bool canPlace(vector<vector<int>> v, int i, int j, int n) {
-        bool cond=true;
-        for(int k=0; k<n; k++) if(v[k][j] || v[i][k]) cond=false;
-        int k=1;
-        while(k<n) {
-            if(i+k<n){
-                if(j+k<n) {
-                    if(v[i+k][j+k]) cond = false;
-                }
-                if(j-k>=0) {
-                    if(v[i+k][j-k]) cond = false;
-                }
-            }
-            if(i-k>=0) {
-                if(j+k<n) {
-                    if(v[i-k][j+k]) cond = false;
-                }
-                if(j-k>=0) {
-                    if(v[i-k][j-k]) cond = false;
-                }
-            }
-            if(!cond) break;
-            k++;
-        }
-        return cond;
+    	bool cond = true;
+    	for (int k = 0; k < n; k++) if (v[k][j] || v[i][k]) cond = false;
+    	int k = 1;
+    	while (k < n) {
+    		if (i + k < n) {
+    			if (j + k < n) {
+    				if (v[i + k][j + k]) cond = false;
+    			}
+    			if (j - k >= 0) {
+    				if (v[i + k][j - k]) cond = false;
+    			}
+    		}
+    		if (i - k >= 0) {
+    			if (j + k < n) {
+    				if (v[i - k][j + k]) cond = false;
+    			}
+    			if (j - k >= 0) {
+    				if (v[i - k][j - k]) cond = false;
+    			}
+    		}
+    		if (!cond) break;
+    		k++;
+    	}
+    	return cond;
     }
     
     void fill(int col, vector<vector<int>> &bd, vector<int> str, vector<vector<int>> &ans, int n) {
-        if(col==n) {
-            ans.push_back(str);
-            return;
-        }
-        for(int i=0; i<n; i++) {
-            if(canPlace(bd, i, col, n)) {
-                bd[i][col] = 1;
-                str.push_back(i+1);
-                fill(col+1, bd, str, ans, n);
-                str.pop_back();
-                bd[i][col] = 0;
-            }
-        }
+    	if (col == n) {
+    		ans.push_back(str);
+    		return;
+    	}
+    	for (int i = 0; i < n; i++) {
+    		if (canPlace(bd, i, col, n)) {
+    			bd[i][col] = 1;
+    			str.push_back(i + 1);
+    			fill(col + 1, bd, str, ans, n);
+    			str.pop_back();
+    			bd[i][col] = 0;
+    		}
+    	}
     }
     
     vector<vector<int>> nQueen(int n) {
