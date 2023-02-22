@@ -12,23 +12,29 @@ class Solution{
     //Function to return length of longest subsequence of consecutive integers.
     int findLongestConseqSubseq(int arr[], int n)
     {
-        map<int, int> mp;
-        for(int i=0; i<n; i++) mp[arr[i]]++;
-        int last= mp.begin()->first;
+        set <int> st;
+        for(int i=0; i<n; i++) st.insert(arr[i]);
+        int count=0;
+        set <int> seq;
+        for(auto x: st) {
+            if(st.find(x-1)==st.end()) {
+                count++;
+                seq.insert(x);
+            }
+        }
         int maxi=1;
-        int curr=1;
-        for(auto x: mp) {
-            if(last==x.first) continue;
-            else {
-                if(x.first==last+1) {
+        for(auto x: seq) {
+            int curr=1;
+            int temp = x+1;
+            while(true) {
+                if(st.find(temp)!=st.end()) {
+                    temp++;
                     curr++;
-                    maxi = max(maxi, curr);
-                    
                 }
                 else {
-                    curr=1;
+                    maxi = max(curr, maxi);
+                    break;
                 }
-                last = x.first;
             }
         }
         return maxi;
