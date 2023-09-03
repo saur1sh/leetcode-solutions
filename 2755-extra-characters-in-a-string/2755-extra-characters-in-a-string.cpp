@@ -2,7 +2,8 @@ class Solution {
 public:
     int minExtraChar(string s, vector<string>& dictionary) {
         int maxi = s.length() + 1;
-        vector<int> dp(s.length() + 1, maxi);
+        int dp[55];
+        memset(dp, maxi, sizeof(dp));
         dp[0] = 0;
 
         unordered_set<string> dictionary_set(dictionary.begin(), dictionary.end());
@@ -15,6 +16,6 @@ public:
                 }
             }
         }
-        return dp.back();
+        return dp[s.length()];
     }
 };
