@@ -6,7 +6,7 @@ public:
         int dp[52];
         memset(dp, maxi, sizeof(dp));
         dp[0] = 0;
-        set<string> st (dictionary.begin(), dictionary.end());
+        unordered_set<string> st (dictionary.begin(), dictionary.end());
         for(int i=1; i<=s.length(); i++) {
             dp[i] = dp[i-1] +1;
             for(int l=1; l<=i; l++) {
