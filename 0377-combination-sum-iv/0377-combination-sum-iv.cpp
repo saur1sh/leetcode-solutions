@@ -1,7 +1,7 @@
 class Solution {
 public:
 
-    int dp[1001];
+    int dp[1000];
 
     int solve(int tar, vector<int> &nums) {
         if(tar==0) {
