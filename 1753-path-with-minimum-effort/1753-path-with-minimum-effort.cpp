@@ -16,8 +16,8 @@ public:
             int u = a.second.first;
             int v = a.second.second;
             pq.pop();
-            if(di>dist[u][v]) continue;
-            if (u == n-1 && v == m-1) {
+            if (di > dist[u][v]) continue;
+            if (u == n - 1 && v == m - 1) {
                 return di;
             }
             for (int i = 0; i < 4; i++) {
@@ -25,7 +25,7 @@ public:
                 int c = v + dc[i];
                 if (r < n && c < m && r >= 0 && c >= 0) {
                     int maxDiff = max(abs(ht[u][v] - ht[r][c]), di);
-                    if(maxDiff<dist[r][c]) {
+                    if (maxDiff < dist[r][c]) {
                         pq.push({maxDiff, {r, c}});
                         dist[r][c] = maxDiff;
                     }
