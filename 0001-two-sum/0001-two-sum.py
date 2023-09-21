@@ -3,9 +3,7 @@ class Solution:
         vals = {}
         for i, x in enumerate(nums):
             if vals.get(target-x) != None:
-                res = []
-                res.append(vals.get(target-x))
-                res.append(i)
+                res = [vals[target-x], i]
                 return res
             else:
                 vals[x] = i
