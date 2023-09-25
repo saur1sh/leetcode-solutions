@@ -1,8 +1,7 @@
 class Solution {
 public:
     char findTheDifference(string s, string t) {
-        int freq[26];
-        memset(freq, 0, sizeof(freq));
+        int freq[26] = {};
         for(const auto &e: s)
           freq[e-'a']++;
         for(const auto &e: t) {
