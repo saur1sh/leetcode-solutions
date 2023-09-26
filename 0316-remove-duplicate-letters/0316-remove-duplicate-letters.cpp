@@ -6,24 +6,18 @@ public:
         for(const auto &e: s) {
             freq[e-'a']++;
         }
-        stack <char> st;
+        string st;
         for(const auto &e: s) {
             if(!vis[e-'a']) {
-                while(!st.empty() && e<st.top() && freq[st.top()-'a']>=1) {
-                    vis[st.top()-'a'] = 0;
-                    st.pop();
+                while(!st.empty() && e<st.back() && freq[st.back()-'a']>=1) {
+                    vis[st.back()-'a'] = 0;
+                    st.pop_back();
                 }
-                st.push(e);
+                st.push_back(e);
                 vis[e-'a'] = 1;
             }
             freq[e-'a']--;
         }
-        string ans ="";
-        while(!st.empty()) {
-            ans+=st.top();
-            st.pop();
-        }
-        reverse(ans.begin(), ans.end());
-        return ans;
+        return st;
     }
 };
