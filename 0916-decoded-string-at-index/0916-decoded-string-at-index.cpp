@@ -5,7 +5,7 @@ public:
         int n=s.length();
         long long size=0;
         
-        for(char c:s)
+        for(char &c:s)
         if(isalpha(c))
         size++;
         else
