@@ -13,7 +13,7 @@ public:
                 } else if (p2[0] == p1[0]) {
                     vertical++;
                 } else {
-                    double slope = static_cast<double>(p2[1] - p1[1]) / (p2[0] - p1[0]);
+                    double slope = double(p2[1] - p1[1]) / double(p2[0] - p1[0]);
                     count[slope]++;
                     localMax = max(localMax, count[slope] + 1);
                 }
