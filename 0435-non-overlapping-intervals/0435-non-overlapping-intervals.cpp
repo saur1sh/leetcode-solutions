@@ -1,3 +1,11 @@
+static const int fast_io = []()
+{
+    std::ios::sync_with_stdio(false);
+    cin.tie(NULL);
+    cout.tie(NULL);
+    return 0;
+}();
+
 bool cmp (const vector<int> &a, const vector<int> &b) {
     return a[1]<b[1];
 }
