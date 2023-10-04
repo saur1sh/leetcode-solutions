@@ -1,36 +1,30 @@
 class Solution {
 public:
     string minWindow(string s, string t) {
-        vector<int> mp(128, 0);
-        int l = 0, r = 0, matches = 0;
-        int minLen = INT_MAX, minStart = 0;
-        
-        for (char &c : t) {
-            mp[c]++;
-        }
-
-        while (r < s.length()) {
-            if (mp[s[r]] > 0) {
+        unordered_map<char, int> mt;
+        for(const char &e: t)
+            mt[e]++;
+        unordered_map<char, int> ms;
+        int l=0, mini=-1, tl=t.length();
+        int matches = 0, ind=0;
+        for(int r=0; r<s.length(); r++) {
+            //acquire
+            ms[s[r]]++;
+            if(ms[s[r]]<=mt[s[r]])
                 matches++;
-            }
-            mp[s[r]]--;
-
-            while (matches == t.length()) {
-                if (r - l + 1 < minLen) {
-                    minLen = r - l + 1;
-                    minStart = l;
+            if(matches==tl) {
+                if(mini==-1 || r-l+1<mini)
+                    mini = r-l+1, ind=l;
+                //release
+                while(l<=r && matches==tl) {
+                    if(r-l+1<mini)
+                        mini = r-l+1, ind=l;
+                    if(ms[s[l]]==mt[s[l]])
+                        matches--;
+                    ms[s[l++]]--;
                 }
-
-                mp[s[l]]++;
-                if (mp[s[l]] > 0) {
-                    matches--;
-                }
-                l++;
             }
-            r++;
         }
-
-        return minLen == INT_MAX ? "" : s.substr(minStart, minLen);
+        return (mini==-1) ? "" : s.substr(ind, mini);
     }
-
 };
