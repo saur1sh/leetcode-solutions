@@ -1,25 +1,22 @@
 class Solution {
 public:
     vector<int> majorityElement(vector<int>& nums) {
-        int y(-1), z(-1), cy(0), cz(0);
-        for(const int &e: nums) {
-            if(e==y)
-                cy++;
-            else if(e==z)
-                cz++;
-            else if(!cy) y=e, cy=1;
-            else if(!cz) z=e, cz=1;
-            else
-                cy--, cz--;
-        }
-        cy=cz=0;
-        for(const int &e: nums) {
-            if(e==y) cy++;
-            else if(e==z) cz++;
-        }
         vector<int> ans;
-        if(cy>size(nums)/3) ans.push_back(y);
-        if(cz>size(nums)/3) ans.push_back(z);
+        int a=-1, b=-1, ca=0, cb=0;
+        for(const int &e: nums) {
+            if(e==a) ca++;
+            else if(e==b) cb++;
+            else if(ca==0) a=e, ca++;
+            else if(cb==0) b=e, cb++;
+            else ca--, cb--;
+        }
+        ca = cb = 0;
+        for(const int &e: nums) {
+            if(e==a) ca++;
+            else if(e==b) cb++;
+        }
+        if(ca>nums.size()/3) ans.push_back(a);
+        if(cb>nums.size()/3) ans.push_back(b);
         return ans;
     }
 };
