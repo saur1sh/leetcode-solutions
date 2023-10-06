@@ -6,9 +6,9 @@ public:
         dp[1] = 1;
         for(int i=2; i<=n; i++) {
             int mini = INT_MAX;
-            for(int j=1; j*j<=n; j++) {
+            for(int j=1; j*j<=i; j++) {
                 int val = i - j*j;
-                if(val>=0 && dp[val]<mini) {
+                if(dp[val]<mini) {
                     mini = dp[val];
                 }
             }
