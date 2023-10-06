@@ -5,8 +5,9 @@ public:
         for(int r=0; r<nums.size(); r++) {
             sum+=nums[r];
             while(sum>=target) {
-                if(ans>r-l+1 || ans==0) {
-                    ans = r-l+1;
+                int sz = r-l+1;
+                if(ans>sz || ans==0) {
+                    ans = sz;
                 }
                 sum-=nums[l++];
             }
