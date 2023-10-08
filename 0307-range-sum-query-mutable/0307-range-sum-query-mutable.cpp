@@ -1,3 +1,8 @@
+int speed_up = []{
+    ios::sync_with_stdio(false);
+    cin.tie(NULL);
+    return 0;
+}();
 
 class Node {
 public:
