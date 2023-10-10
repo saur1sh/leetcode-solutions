@@ -6,7 +6,8 @@ public:
         nums.erase(unique(nums.begin(), nums.end()), nums.end());
         int r = 0, n = nums.size();
         for(int l=0; l<n; l++) {
-            r = upper_bound(nums.begin(), nums.end(), nums[l]+m-1)-nums.begin();
+            while(r<n && nums[r]<nums[l]+m)
+                r++;
             res = min(res, m-(r-l));
         }
         return res;
