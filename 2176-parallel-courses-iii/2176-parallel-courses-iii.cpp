@@ -25,7 +25,7 @@ public:
                 if(ind[v]==vis[v].first)
                     q.push({v, vis[v].second+time[v-1]});
             }
-            maxi = max(maxi, cst);
+            maxi = (cst>maxi) ? cst : maxi ;
         }
         return maxi;
     }
