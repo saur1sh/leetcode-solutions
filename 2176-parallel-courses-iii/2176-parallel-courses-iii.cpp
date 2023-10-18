@@ -2,7 +2,7 @@ class Solution {
 public:
     int minimumTime(int n, vector<vector<int>>& rel, vector<int>& time) {
         vector<int> adj[n+1];
-        vector<int> ind(n+1, 0);
+        int ind[50002] = {};
         for(const auto &e: rel) {
             adj[e[0]].push_back(e[1]);
             ind[e[1]]++;
@@ -10,7 +10,7 @@ public:
         int maxi = 0;
         vector<pair<int, int>> vis;
         queue<pair<int, int>> q;
-        for(int i=0; i<ind.size(); i++) {
+        for(int i=0; i<n+1; i++) {
             if(i!=0 && ind[i]==0)
                 q.push({i, time[i-1]});
             vis.push_back({0, 0});
