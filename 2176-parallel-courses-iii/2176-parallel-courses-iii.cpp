@@ -2,7 +2,7 @@ class Solution {
 public:
     int minimumTime(int n, vector<vector<int>>& rel, vector<int>& time) {
         vector<int> adj[n+1];
-        int ind[50002] = {};
+        vector<int> ind(n+1, 0);
         for(const auto &e: rel) {
             adj[e[0]].push_back(e[1]);
             ind[e[1]]++;
