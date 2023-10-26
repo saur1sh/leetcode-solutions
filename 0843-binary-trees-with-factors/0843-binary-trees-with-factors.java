@@ -9,7 +9,7 @@ class Solution {
             long curr = 1;
             for(int j=0; j<i; j++) {
                 if(arr[i]%arr[j]==0  && mp.containsKey(arr[i]/arr[j])){
-                    curr = (curr%mod + ((mp.get(arr[j])*mp.get(arr[i]/arr[j])))%mod)%mod;
+                    curr = (curr%mod + (mp.get(arr[j])*mp.get(arr[i]/arr[j]))%mod)%mod;
                 }
             }
             mp.put(arr[i], curr);
