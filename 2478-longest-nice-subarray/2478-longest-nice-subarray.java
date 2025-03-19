@@ -4,8 +4,7 @@ class Solution {
         int maxi = 0;
         int l = 0, r = 0;
         while (r<nums.length) {
-            int check = curr&nums[r];
-            if (check==0) {
+            if ((curr&nums[r])==0) {
                 curr ^= nums[r];
                 maxi = Math.max(maxi, r-l+1);
                 r++;
