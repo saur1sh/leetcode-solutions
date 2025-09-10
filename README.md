@@ -29,9 +29,15 @@ My solutions to leetcode problems
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/saur1sh/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0908-middle-of-the-linked-list](https://github.com/saur1sh/leetcode-solutions/tree/master/0908-middle-of-the-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/saur1sh/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0908-middle-of-the-linked-list](https://github.com/saur1sh/leetcode-solutions/tree/master/0908-middle-of-the-linked-list) |
+## Hash Table
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/saur1sh/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
