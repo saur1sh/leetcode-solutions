@@ -8,6 +8,7 @@ My solutions to leetcode problems
 | ------- |
 | [0053-maximum-subarray](https://github.com/saur1sh/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/saur1sh/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
+| [0724-find-pivot-index](https://github.com/saur1sh/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [2478-longest-nice-subarray](https://github.com/saur1sh/leetcode-solutions/tree/master/2478-longest-nice-subarray) |
 ## Bit Manipulation
 |  |
@@ -56,4 +57,8 @@ My solutions to leetcode problems
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/saur1sh/leetcode-solutions/tree/master/0148-sort-list) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/saur1sh/leetcode-solutions/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
