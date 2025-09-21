@@ -11,6 +11,7 @@ My solutions to leetcode problems
 | [0053-maximum-subarray](https://github.com/saur1sh/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/saur1sh/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/saur1sh/leetcode-solutions/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/saur1sh/leetcode-solutions/tree/master/0169-majority-element) |
 | [0724-find-pivot-index](https://github.com/saur1sh/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [2478-longest-nice-subarray](https://github.com/saur1sh/leetcode-solutions/tree/master/2478-longest-nice-subarray) |
 ## Bit Manipulation
@@ -26,6 +27,7 @@ My solutions to leetcode problems
 | ------- |
 | [0053-maximum-subarray](https://github.com/saur1sh/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/saur1sh/leetcode-solutions/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/saur1sh/leetcode-solutions/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -54,11 +56,13 @@ My solutions to leetcode problems
 | [0001-two-sum](https://github.com/saur1sh/leetcode-solutions/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/saur1sh/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/saur1sh/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/saur1sh/leetcode-solutions/tree/master/0169-majority-element) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/saur1sh/leetcode-solutions/tree/master/0015-3sum) |
 | [0148-sort-list](https://github.com/saur1sh/leetcode-solutions/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/saur1sh/leetcode-solutions/tree/master/0169-majority-element) |
 ## Merge Sort
 |  |
 | ------- |
@@ -71,4 +75,8 @@ My solutions to leetcode problems
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/saur1sh/leetcode-solutions/tree/master/0162-find-peak-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/saur1sh/leetcode-solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
