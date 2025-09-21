@@ -7,6 +7,7 @@ My solutions to leetcode problems
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/saur1sh/leetcode-solutions/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/saur1sh/leetcode-solutions/tree/master/0015-3sum) |
 | [0053-maximum-subarray](https://github.com/saur1sh/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/saur1sh/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/saur1sh/leetcode-solutions/tree/master/0162-find-peak-element) |
@@ -41,6 +42,7 @@ My solutions to leetcode problems
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/saur1sh/leetcode-solutions/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/saur1sh/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/saur1sh/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/saur1sh/leetcode-solutions/tree/master/0148-sort-list) |
@@ -55,6 +57,7 @@ My solutions to leetcode problems
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/saur1sh/leetcode-solutions/tree/master/0015-3sum) |
 | [0148-sort-list](https://github.com/saur1sh/leetcode-solutions/tree/master/0148-sort-list) |
 ## Merge Sort
 |  |
