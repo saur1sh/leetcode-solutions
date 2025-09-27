@@ -12,6 +12,7 @@ My solutions to leetcode problems
 | [0152-maximum-product-subarray](https://github.com/saur1sh/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/saur1sh/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/saur1sh/leetcode-solutions/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/saur1sh/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0724-find-pivot-index](https://github.com/saur1sh/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [2478-longest-nice-subarray](https://github.com/saur1sh/leetcode-solutions/tree/master/2478-longest-nice-subarray) |
 ## Bit Manipulation
@@ -28,6 +29,7 @@ My solutions to leetcode problems
 | [0053-maximum-subarray](https://github.com/saur1sh/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/saur1sh/leetcode-solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/saur1sh/leetcode-solutions/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/saur1sh/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -63,6 +65,7 @@ My solutions to leetcode problems
 | [0015-3sum](https://github.com/saur1sh/leetcode-solutions/tree/master/0015-3sum) |
 | [0148-sort-list](https://github.com/saur1sh/leetcode-solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/saur1sh/leetcode-solutions/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/saur1sh/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 ## Merge Sort
 |  |
 | ------- |
@@ -79,4 +82,12 @@ My solutions to leetcode problems
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/saur1sh/leetcode-solutions/tree/master/0169-majority-element) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/saur1sh/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/saur1sh/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
