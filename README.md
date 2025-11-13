@@ -15,6 +15,7 @@ My solutions to leetcode problems
 | [0215-kth-largest-element-in-an-array](https://github.com/saur1sh/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0724-find-pivot-index](https://github.com/saur1sh/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [2478-longest-nice-subarray](https://github.com/saur1sh/leetcode-solutions/tree/master/2478-longest-nice-subarray) |
+| [4041-climbing-stairs-ii](https://github.com/saur1sh/leetcode-solutions/tree/master/4041-climbing-stairs-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -36,6 +37,7 @@ My solutions to leetcode problems
 | [0053-maximum-subarray](https://github.com/saur1sh/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/saur1sh/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/saur1sh/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
+| [4041-climbing-stairs-ii](https://github.com/saur1sh/leetcode-solutions/tree/master/4041-climbing-stairs-ii) |
 ## Linked List
 |  |
 | ------- |
