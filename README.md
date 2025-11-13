@@ -34,6 +34,7 @@ My solutions to leetcode problems
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/saur1sh/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/saur1sh/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/saur1sh/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 ## Linked List
 |  |
@@ -90,4 +91,12 @@ My solutions to leetcode problems
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/saur1sh/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/saur1sh/leetcode-solutions/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/saur1sh/leetcode-solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
