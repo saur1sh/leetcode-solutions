@@ -4,18 +4,15 @@ class Solution {
     }
 
     private int countWays(int n, int[] dp) {
-
-        if(n==0 || n==1) {
-            return 1;
+        dp[0] = 1;
+        for(int i=1; i<=n; i++) {
+            if(i==1) {
+                dp[i] = dp[i-1];
+            }
+            else {
+                dp[i] = dp[i-1] + dp[i-2];
+            }
         }
-
-        if(dp[n]!=0) {
-            return dp[n];
-        }
-
-        int s1 = countWays(n-1, dp);
-        int s2 = countWays(n-2, dp);
-        dp[n] = s1+s2;
         return dp[n];
     }
 }
