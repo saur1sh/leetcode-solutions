@@ -1,5 +1,5 @@
 class Solution {
-    private static final long mod = 1000000007L;
+    private static final long MOD = 1000000007L;
 
     public int countTrapezoids(int[][] points) {
         Map<Integer, Integer> mp = new HashMap<>();
@@ -10,21 +10,22 @@ class Solution {
             mp.put(p[1], mp.getOrDefault(p[1], 0) + 1);
         }
 
-        for (Map.Entry<Integer, Integer> entry: mp.entrySet()) {
-            long curr = comb(entry.getValue(), 2);
-            ans = (ans + (edgeSum * curr) % mod) % mod;
-            edgeSum = (edgeSum + curr) % mod;
+        for (int count: mp.values()) {
+            if(count<2)
+                continue;
+            long curr = comb(count);
+            ans = (ans + (edgeSum * curr) % MOD) % MOD;
+            edgeSum = (edgeSum + curr) % MOD;
         }
 
         return (int) ans;
     }
 
-    public static long comb(int n, int r) {
-        if (r <= 1) return n;
-        if (r > n) return 0;
-        if (r == 2) {
-            return (long)n * (n - 1) / 2 % mod;
-        }
-        return 0;
+private static long comb(int n) {
+        if (n < 2) return 0;
+        final long INV_2 = 500000004L; 
+
+        long numerator = (long) n * (n - 1) % MOD;
+        return (numerator * INV_2) % MOD;
     }
 }
