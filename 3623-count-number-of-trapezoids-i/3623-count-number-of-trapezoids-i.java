@@ -10,11 +10,8 @@ class Solution {
             mp.put(p[1], mp.getOrDefault(p[1], 0) + 1);
         }
 
-        List<Integer> levels = new ArrayList<>(mp.keySet());
-        Collections.sort(levels);
-
-        for (int lvl : levels) {
-            long curr = comb(mp.get(lvl), 2);
+        for (Map.Entry<Integer, Integer> entry: mp.entrySet()) {
+            long curr = comb(entry.getValue(), 2);
             ans = (ans + (edgeSum * curr) % mod) % mod;
             edgeSum = (edgeSum + curr) % mod;
         }
