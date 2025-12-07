@@ -1,6 +1,4 @@
 class Solution {
-    private static final float MIN = Float.MIN_VALUE;
-
     public int countTrapezoids(int[][] points) {
         int n = points.length;
         HashMap<Integer, HashMap<Integer, Integer>> segments = new HashMap<>();
