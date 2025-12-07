@@ -19,6 +19,7 @@ My solutions to leetcode problems
 | [2478-longest-nice-subarray](https://github.com/saur1sh/leetcode-solutions/tree/master/2478-longest-nice-subarray) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/saur1sh/leetcode-solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3623-count-number-of-trapezoids-i](https://github.com/saur1sh/leetcode-solutions/tree/master/3623-count-number-of-trapezoids-i) |
+| [3625-count-number-of-trapezoids-ii](https://github.com/saur1sh/leetcode-solutions/tree/master/3625-count-number-of-trapezoids-ii) |
 | [4041-climbing-stairs-ii](https://github.com/saur1sh/leetcode-solutions/tree/master/4041-climbing-stairs-ii) |
 ## Bit Manipulation
 |  |
@@ -69,6 +70,7 @@ My solutions to leetcode problems
 | [0160-intersection-of-two-linked-lists](https://github.com/saur1sh/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/saur1sh/leetcode-solutions/tree/master/0169-majority-element) |
 | [3623-count-number-of-trapezoids-i](https://github.com/saur1sh/leetcode-solutions/tree/master/3623-count-number-of-trapezoids-i) |
+| [3625-count-number-of-trapezoids-ii](https://github.com/saur1sh/leetcode-solutions/tree/master/3625-count-number-of-trapezoids-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -109,6 +111,7 @@ My solutions to leetcode problems
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/saur1sh/leetcode-solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/saur1sh/leetcode-solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3623-count-number-of-trapezoids-i](https://github.com/saur1sh/leetcode-solutions/tree/master/3623-count-number-of-trapezoids-i) |
+| [3625-count-number-of-trapezoids-ii](https://github.com/saur1sh/leetcode-solutions/tree/master/3625-count-number-of-trapezoids-ii) |
 ## Memoization
 |  |
 | ------- |
@@ -125,6 +128,7 @@ My solutions to leetcode problems
 |  |
 | ------- |
 | [3623-count-number-of-trapezoids-i](https://github.com/saur1sh/leetcode-solutions/tree/master/3623-count-number-of-trapezoids-i) |
+| [3625-count-number-of-trapezoids-ii](https://github.com/saur1sh/leetcode-solutions/tree/master/3625-count-number-of-trapezoids-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
