@@ -106,6 +106,7 @@ My solutions to leetcode problems
 | ------- |
 | [0070-climbing-stairs](https://github.com/saur1sh/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0273-integer-to-english-words](https://github.com/saur1sh/leetcode-solutions/tree/master/0273-integer-to-english-words) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/saur1sh/leetcode-solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/saur1sh/leetcode-solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3623-count-number-of-trapezoids-i](https://github.com/saur1sh/leetcode-solutions/tree/master/3623-count-number-of-trapezoids-i) |
 ## Memoization
