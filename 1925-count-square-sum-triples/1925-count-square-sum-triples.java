@@ -1,27 +1,19 @@
 class Solution {
     public int countTriples(int n) {
-        int ans = 0;
-        long x = (long) n;
-        for (int i = 1; i < n; i++) {
-            for (int j = i + 1; j < n; j++) {
-                int res = square(i) + square(j);
-                long sqrt = (long) Math.sqrt(res);
-                if (check(res, sqrt) && sqrt <= x) {
-                    ans += 2;
-                }
+        int res = 0;
+        for (int u = 2; u * u <= n; u++) {
+            for (int v = 1; v < u; v++) {
+                if (((u - v) & 1) == 0 || gcd(u, v) != 1) continue;
+                int c = u * u + v * v;
+                if (c > n) continue;
+
+                res += 2 * (n / c);
             }
         }
-        return ans;
+        return res;
     }
 
-    private int square(int x) {
-        return x * x;
-    }
-
-    private boolean check(int x, double st) {
-        if (x >= 0) {
-            return (st * st == x);
-        }
-        return false;
+    int gcd(int x, int y) {
+        return y == 0 ? x : gcd(y, x % y);
     }
 }
