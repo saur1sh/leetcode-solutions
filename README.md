@@ -18,6 +18,7 @@ My solutions to leetcode problems
 | [0724-find-pivot-index](https://github.com/saur1sh/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [2478-longest-nice-subarray](https://github.com/saur1sh/leetcode-solutions/tree/master/2478-longest-nice-subarray) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/saur1sh/leetcode-solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3531-count-covered-buildings](https://github.com/saur1sh/leetcode-solutions/tree/master/3531-count-covered-buildings) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/saur1sh/leetcode-solutions/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3583-count-special-triplets](https://github.com/saur1sh/leetcode-solutions/tree/master/3583-count-special-triplets) |
 | [3623-count-number-of-trapezoids-i](https://github.com/saur1sh/leetcode-solutions/tree/master/3623-count-number-of-trapezoids-i) |
@@ -71,6 +72,7 @@ My solutions to leetcode problems
 | [0141-linked-list-cycle](https://github.com/saur1sh/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/saur1sh/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/saur1sh/leetcode-solutions/tree/master/0169-majority-element) |
+| [3531-count-covered-buildings](https://github.com/saur1sh/leetcode-solutions/tree/master/3531-count-covered-buildings) |
 | [3583-count-special-triplets](https://github.com/saur1sh/leetcode-solutions/tree/master/3583-count-special-triplets) |
 | [3623-count-number-of-trapezoids-i](https://github.com/saur1sh/leetcode-solutions/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/saur1sh/leetcode-solutions/tree/master/3625-count-number-of-trapezoids-ii) |
@@ -81,6 +83,7 @@ My solutions to leetcode problems
 | [0148-sort-list](https://github.com/saur1sh/leetcode-solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/saur1sh/leetcode-solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/saur1sh/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [3531-count-covered-buildings](https://github.com/saur1sh/leetcode-solutions/tree/master/3531-count-covered-buildings) |
 ## Merge Sort
 |  |
 | ------- |
