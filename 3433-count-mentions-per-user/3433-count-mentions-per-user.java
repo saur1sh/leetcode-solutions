@@ -7,14 +7,13 @@ class Solution {
     private String here = "HERE";
 
     public int[] countMentions(int n, List<List<String>> events) {
-        events.sort((a, b) ->  {
+        events.sort((a, b) -> {
             int comparison = Integer.compare(Integer.parseInt(a.get(1)), Integer.parseInt(b.get(1)));
-            
+
             if (comparison == 0) {
-                if(offline.equalsIgnoreCase(a.get(0))) {
+                if (offline.equalsIgnoreCase(a.get(0))) {
                     return -1;
-                }
-                else if(offline.equalsIgnoreCase(b.get(0))) {
+                } else if (offline.equalsIgnoreCase(b.get(0))) {
                     return 1;
                 }
             }
@@ -22,7 +21,7 @@ class Solution {
         });
 
         HashMap<String, Integer> removeAt = new HashMap<>();
-        
+
         int[] ans = new int[n];
         for (int i = 0; i < events.size(); i++) {
             var ev = events.get(i);
@@ -32,15 +31,11 @@ class Solution {
             } else {
                 int curr = Integer.parseInt(ev.get(1));
                 removeExpiredOffline(removeAt, curr);
-                // System.out.println("HashSet -> " + removeAt);
                 if (all.equalsIgnoreCase(ev.get(2))) {
-                    // System.out.println("ALL");
                     addAllMentions(ans);
                 } else if (here.equalsIgnoreCase(ev.get(2))) {
-                    // System.out.println("HERE");
                     addHereMentions(ans, removeAt, curr);
                 } else {
-                    // System.out.println("Personal");
                     addPersonalMentions(ans, removeAt, curr, ev.get(2));
                 }
             }
@@ -70,7 +65,6 @@ class Solution {
             if (remH.containsKey(ind) && (remH.get(ind) > curr)) {
                 continue;
             } else {
-                // System.out.println(ind);
                 arr[i]++;
             }
         }
@@ -89,7 +83,6 @@ class Solution {
             if (remH.containsKey(id) && (remH.get(id) < curr)) {
                 continue;
             } else {
-                // System.out.println(id);
                 arr[Integer.valueOf(id)]++;
             }
         }
