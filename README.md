@@ -22,6 +22,7 @@ My solutions to leetcode problems
 | [3531-count-covered-buildings](https://github.com/saur1sh/leetcode-solutions/tree/master/3531-count-covered-buildings) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/saur1sh/leetcode-solutions/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3583-count-special-triplets](https://github.com/saur1sh/leetcode-solutions/tree/master/3583-count-special-triplets) |
+| [3606-coupon-code-validator](https://github.com/saur1sh/leetcode-solutions/tree/master/3606-coupon-code-validator) |
 | [3623-count-number-of-trapezoids-i](https://github.com/saur1sh/leetcode-solutions/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/saur1sh/leetcode-solutions/tree/master/3625-count-number-of-trapezoids-ii) |
 | [4041-climbing-stairs-ii](https://github.com/saur1sh/leetcode-solutions/tree/master/4041-climbing-stairs-ii) |
@@ -77,6 +78,7 @@ My solutions to leetcode problems
 | [0169-majority-element](https://github.com/saur1sh/leetcode-solutions/tree/master/0169-majority-element) |
 | [3531-count-covered-buildings](https://github.com/saur1sh/leetcode-solutions/tree/master/3531-count-covered-buildings) |
 | [3583-count-special-triplets](https://github.com/saur1sh/leetcode-solutions/tree/master/3583-count-special-triplets) |
+| [3606-coupon-code-validator](https://github.com/saur1sh/leetcode-solutions/tree/master/3606-coupon-code-validator) |
 | [3623-count-number-of-trapezoids-i](https://github.com/saur1sh/leetcode-solutions/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/saur1sh/leetcode-solutions/tree/master/3625-count-number-of-trapezoids-ii) |
 ## Sorting
@@ -88,6 +90,7 @@ My solutions to leetcode problems
 | [0215-kth-largest-element-in-an-array](https://github.com/saur1sh/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [3433-count-mentions-per-user](https://github.com/saur1sh/leetcode-solutions/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/saur1sh/leetcode-solutions/tree/master/3531-count-covered-buildings) |
+| [3606-coupon-code-validator](https://github.com/saur1sh/leetcode-solutions/tree/master/3606-coupon-code-validator) |
 ## Merge Sort
 |  |
 | ------- |
@@ -134,6 +137,7 @@ My solutions to leetcode problems
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/saur1sh/leetcode-solutions/tree/master/0273-integer-to-english-words) |
+| [3606-coupon-code-validator](https://github.com/saur1sh/leetcode-solutions/tree/master/3606-coupon-code-validator) |
 ## Recursion
 |  |
 | ------- |
