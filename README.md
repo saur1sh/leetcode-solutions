@@ -16,6 +16,7 @@ My solutions to leetcode problems
 | [0322-coin-change](https://github.com/saur1sh/leetcode-solutions/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/saur1sh/leetcode-solutions/tree/master/0518-coin-change-ii) |
 | [0724-find-pivot-index](https://github.com/saur1sh/leetcode-solutions/tree/master/0724-find-pivot-index) |
+| [0944-delete-columns-to-make-sorted](https://github.com/saur1sh/leetcode-solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [2478-longest-nice-subarray](https://github.com/saur1sh/leetcode-solutions/tree/master/2478-longest-nice-subarray) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/saur1sh/leetcode-solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/saur1sh/leetcode-solutions/tree/master/3433-count-mentions-per-user) |
@@ -137,6 +138,7 @@ My solutions to leetcode problems
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/saur1sh/leetcode-solutions/tree/master/0273-integer-to-english-words) |
+| [0944-delete-columns-to-make-sorted](https://github.com/saur1sh/leetcode-solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [3606-coupon-code-validator](https://github.com/saur1sh/leetcode-solutions/tree/master/3606-coupon-code-validator) |
 ## Recursion
 |  |
