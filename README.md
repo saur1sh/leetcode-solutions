@@ -18,6 +18,7 @@ My solutions to leetcode problems
 | [0724-find-pivot-index](https://github.com/saur1sh/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0944-delete-columns-to-make-sorted](https://github.com/saur1sh/leetcode-solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [2478-longest-nice-subarray](https://github.com/saur1sh/leetcode-solutions/tree/master/2478-longest-nice-subarray) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/saur1sh/leetcode-solutions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/saur1sh/leetcode-solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/saur1sh/leetcode-solutions/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/saur1sh/leetcode-solutions/tree/master/3531-count-covered-buildings) |
@@ -89,6 +90,7 @@ My solutions to leetcode problems
 | [0148-sort-list](https://github.com/saur1sh/leetcode-solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/saur1sh/leetcode-solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/saur1sh/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/saur1sh/leetcode-solutions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3433-count-mentions-per-user](https://github.com/saur1sh/leetcode-solutions/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/saur1sh/leetcode-solutions/tree/master/3531-count-covered-buildings) |
 | [3606-coupon-code-validator](https://github.com/saur1sh/leetcode-solutions/tree/master/3606-coupon-code-validator) |
@@ -169,4 +171,8 @@ My solutions to leetcode problems
 |  |
 | ------- |
 | [3433-count-mentions-per-user](https://github.com/saur1sh/leetcode-solutions/tree/master/3433-count-mentions-per-user) |
+## Greedy
+|  |
+| ------- |
+| [3075-maximize-happiness-of-selected-children](https://github.com/saur1sh/leetcode-solutions/tree/master/3075-maximize-happiness-of-selected-children) |
 <!---LeetCode Topics End-->
