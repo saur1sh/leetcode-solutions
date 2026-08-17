@@ -2,26 +2,23 @@ class Solution {
     private static String[] codes = { "", "", "abc", "def", "ghi", "jkl", "mno", "pqrs", "tuv", "wxyz" };
 
     public List<String> letterCombinations(String digits) {
-        return comb(digits, 0);
+        List<String> result = new ArrayList<>();
+        backtrack(digits, 0, new StringBuilder(), result);
+        return result;
     }
 
-    public List<String> comb(String digits, int idx) {
+    private void backtrack(String digits, int idx, StringBuilder path, List<String> result) {
         if (idx == digits.length()) {
-            ArrayList<String> ad = new ArrayList<>();
-            ad.add("");
-            return ad;
+            result.add(path.toString());
+            return;
         }
-        List<String> recResult = comb(digits, idx + 1);
-        char ch = digits.charAt(idx);
-        List<String> ans = new ArrayList<>();
-        String code = codes[ch - '0'];
-        for (String res : recResult) {
-            for (int i = 0; i < code.length(); i++) {
-                char c = code.charAt(i);
-                String newString = c + res;
-                ans.add(newString);
-            }
+
+        String code = codes[digits.charAt(idx) - '0'];
+
+        for (int i = 0; i < code.length(); i++) {
+            path.append(code.charAt(i));
+            backtrack(digits, idx + 1, path, result);
+            path.deleteCharAt(path.length() - 1);
         }
-        return ans;
     }
 }
