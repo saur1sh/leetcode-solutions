@@ -9,6 +9,7 @@ My solutions to leetcode problems
 | [0001-two-sum](https://github.com/saur1sh/leetcode-solutions/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/saur1sh/leetcode-solutions/tree/master/0015-3sum) |
 | [0053-maximum-subarray](https://github.com/saur1sh/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0079-word-search](https://github.com/saur1sh/leetcode-solutions/tree/master/0079-word-search) |
 | [0152-maximum-product-subarray](https://github.com/saur1sh/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/saur1sh/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/saur1sh/leetcode-solutions/tree/master/0169-majority-element) |
@@ -146,6 +147,7 @@ My solutions to leetcode problems
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/saur1sh/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0079-word-search](https://github.com/saur1sh/leetcode-solutions/tree/master/0079-word-search) |
 | [0273-integer-to-english-words](https://github.com/saur1sh/leetcode-solutions/tree/master/0273-integer-to-english-words) |
 | [0944-delete-columns-to-make-sorted](https://github.com/saur1sh/leetcode-solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [3606-coupon-code-validator](https://github.com/saur1sh/leetcode-solutions/tree/master/3606-coupon-code-validator) |
@@ -189,6 +191,7 @@ My solutions to leetcode problems
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/saur1sh/leetcode-solutions/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/saur1sh/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -202,4 +205,9 @@ My solutions to leetcode problems
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/saur1sh/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0079-word-search](https://github.com/saur1sh/leetcode-solutions/tree/master/0079-word-search) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/saur1sh/leetcode-solutions/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
