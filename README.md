@@ -31,6 +31,7 @@ My solutions to leetcode problems
 | [3606-coupon-code-validator](https://github.com/saur1sh/leetcode-solutions/tree/master/3606-coupon-code-validator) |
 | [3623-count-number-of-trapezoids-i](https://github.com/saur1sh/leetcode-solutions/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/saur1sh/leetcode-solutions/tree/master/3625-count-number-of-trapezoids-ii) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/saur1sh/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [4041-climbing-stairs-ii](https://github.com/saur1sh/leetcode-solutions/tree/master/4041-climbing-stairs-ii) |
 ## Bit Manipulation
 |  |
@@ -90,6 +91,7 @@ My solutions to leetcode problems
 | [3606-coupon-code-validator](https://github.com/saur1sh/leetcode-solutions/tree/master/3606-coupon-code-validator) |
 | [3623-count-number-of-trapezoids-i](https://github.com/saur1sh/leetcode-solutions/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/saur1sh/leetcode-solutions/tree/master/3625-count-number-of-trapezoids-ii) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/saur1sh/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Sorting
 |  |
 | ------- |
