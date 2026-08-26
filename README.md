@@ -202,21 +202,25 @@ My solutions to leetcode problems
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/saur1sh/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/saur1sh/leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/saur1sh/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0079-word-search](https://github.com/saur1sh/leetcode-solutions/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/saur1sh/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/saur1sh/leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/saur1sh/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/saur1sh/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/saur1sh/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Binary Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/saur1sh/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/saur1sh/leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/saur1sh/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Backtracking
 |  |
 | ------- |
