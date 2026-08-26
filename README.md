@@ -15,6 +15,7 @@ My solutions to leetcode problems
 | [0162-find-peak-element](https://github.com/saur1sh/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/saur1sh/leetcode-solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/saur1sh/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/saur1sh/leetcode-solutions/tree/master/0268-missing-number) |
 | [0322-coin-change](https://github.com/saur1sh/leetcode-solutions/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/saur1sh/leetcode-solutions/tree/master/0518-coin-change-ii) |
 | [0724-find-pivot-index](https://github.com/saur1sh/leetcode-solutions/tree/master/0724-find-pivot-index) |
@@ -36,6 +37,7 @@ My solutions to leetcode problems
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/saur1sh/leetcode-solutions/tree/master/0268-missing-number) |
 | [2478-longest-nice-subarray](https://github.com/saur1sh/leetcode-solutions/tree/master/2478-longest-nice-subarray) |
 ## Sliding Window
 |  |
@@ -87,6 +89,7 @@ My solutions to leetcode problems
 | [0141-linked-list-cycle](https://github.com/saur1sh/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/saur1sh/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/saur1sh/leetcode-solutions/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/saur1sh/leetcode-solutions/tree/master/0268-missing-number) |
 | [3531-count-covered-buildings](https://github.com/saur1sh/leetcode-solutions/tree/master/3531-count-covered-buildings) |
 | [3583-count-special-triplets](https://github.com/saur1sh/leetcode-solutions/tree/master/3583-count-special-triplets) |
 | [3606-coupon-code-validator](https://github.com/saur1sh/leetcode-solutions/tree/master/3606-coupon-code-validator) |
@@ -100,6 +103,7 @@ My solutions to leetcode problems
 | [0148-sort-list](https://github.com/saur1sh/leetcode-solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/saur1sh/leetcode-solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/saur1sh/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/saur1sh/leetcode-solutions/tree/master/0268-missing-number) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/saur1sh/leetcode-solutions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3433-count-mentions-per-user](https://github.com/saur1sh/leetcode-solutions/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/saur1sh/leetcode-solutions/tree/master/3531-count-covered-buildings) |
@@ -117,6 +121,7 @@ My solutions to leetcode problems
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/saur1sh/leetcode-solutions/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/saur1sh/leetcode-solutions/tree/master/0268-missing-number) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/saur1sh/leetcode-solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Counting
 |  |
@@ -136,6 +141,7 @@ My solutions to leetcode problems
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/saur1sh/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0268-missing-number](https://github.com/saur1sh/leetcode-solutions/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/saur1sh/leetcode-solutions/tree/master/0273-integer-to-english-words) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/saur1sh/leetcode-solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1925-count-square-sum-triples](https://github.com/saur1sh/leetcode-solutions/tree/master/1925-count-square-sum-triples) |
