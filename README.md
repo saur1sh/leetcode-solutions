@@ -239,4 +239,5 @@ My solutions to leetcode problems
 | ------- |
 | [1114-print-in-order](https://github.com/saur1sh/leetcode-solutions/tree/master/1114-print-in-order) |
 | [1115-print-foobar-alternately](https://github.com/saur1sh/leetcode-solutions/tree/master/1115-print-foobar-alternately) |
+| [1116-print-zero-even-odd](https://github.com/saur1sh/leetcode-solutions/tree/master/1116-print-zero-even-odd) |
 <!---LeetCode Topics End-->
