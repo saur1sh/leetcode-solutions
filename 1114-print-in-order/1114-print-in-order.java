@@ -1,30 +1,36 @@
 class Foo {
 
-    private volatile int step = 1;
+    private int step = 1;
+    private Object lock = new Object();
 
     public Foo() {
     }
 
     public void first(Runnable printFirst) throws InterruptedException {
-
-        // printFirst.run() outputs "first". Do not change or remove this line.
-        printFirst.run();
-        step = 2;
+        synchronized (lock) {
+            printFirst.run();
+            step = 2;
+            lock.notifyAll();
+        }
     }
 
     public void second(Runnable printSecond) throws InterruptedException {
-        while (step != 2) {
-            Thread.onSpinWait();
+        synchronized (lock) {
+            while (step != 2) {
+                lock.wait();
+            }
+            printSecond.run();
+            step = 3;
+            lock.notifyAll();
         }
-        printSecond.run();
-        step = 3;
     }
 
     public void third(Runnable printThird) throws InterruptedException {
-        while (step != 3) {
-            Thread.onSpinWait();
+        synchronized (lock) {
+            while (step != 3) {
+                lock.wait();
+            }
+            printThird.run();
         }
-        // printThird.run() outputs "third". Do not change or remove this line.
-        printThird.run();
     }
 }
