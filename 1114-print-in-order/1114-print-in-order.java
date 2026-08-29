@@ -1,7 +1,6 @@
 class Foo {
 
-    private final CountDownLatch latch1 = new CountDownLatch(1);
-    private final CountDownLatch latch2 = new CountDownLatch(1);
+    private volatile int step = 1;
 
     public Foo() {
     }
@@ -10,18 +9,21 @@ class Foo {
 
         // printFirst.run() outputs "first". Do not change or remove this line.
         printFirst.run();
-        latch1.countDown();
+        step = 2;
     }
 
     public void second(Runnable printSecond) throws InterruptedException {
-        latch1.await();
-        // printSecond.run() outputs "second". Do not change or remove this line.
+        while(step!=2) {
+            Thread.onSpinWait();
+        }
         printSecond.run();
-        latch2.countDown();
+        step=3;
     }
 
     public void third(Runnable printThird) throws InterruptedException {
-        latch2.await();
+        while(step!=3) {
+            Thread.onSpinWait();
+        }
         // printThird.run() outputs "third". Do not change or remove this line.
         printThird.run();
     }
