@@ -13,15 +13,15 @@ class Foo {
     }
 
     public void second(Runnable printSecond) throws InterruptedException {
-        while(step!=2) {
+        while (step != 2) {
             Thread.onSpinWait();
         }
         printSecond.run();
-        step=3;
+        step = 3;
     }
 
     public void third(Runnable printThird) throws InterruptedException {
-        while(step!=3) {
+        while (step != 3) {
             Thread.onSpinWait();
         }
         // printThird.run() outputs "third". Do not change or remove this line.
