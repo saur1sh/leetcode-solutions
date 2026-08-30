@@ -1,30 +1,27 @@
 class H2O {
 
-    private int h = 0;
+    private Semaphore o = new Semaphore(0);
+    private Semaphore h = new Semaphore(2);
 
     public H2O() {
 
     }
 
-    public synchronized void hydrogen(Runnable releaseHydrogen) throws InterruptedException {
+    public void hydrogen(Runnable releaseHydrogen) throws InterruptedException {
 
         // releaseHydrogen.run() outputs "H". Do not change or remove this line.
-        while (h == 2) {
-            wait();
-        }
-        h++;
+        h.acquire();
         releaseHydrogen.run();
-        notifyAll();
+        if (h.availablePermits() == 0) {
+            o.release();
+        }
     }
 
-    public synchronized void oxygen(Runnable releaseOxygen) throws InterruptedException {
+    public void oxygen(Runnable releaseOxygen) throws InterruptedException {
 
         // releaseOxygen.run() outputs "O". Do not change or remove this line.
-        while (h < 2) {
-            wait();
-        }
-        h -= 2;
+        o.acquire();
         releaseOxygen.run();
-        notifyAll();
+        h.release(2);
     }
 }
