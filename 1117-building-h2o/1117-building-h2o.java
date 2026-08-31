@@ -1,7 +1,9 @@
 class H2O {
 
-    private Semaphore o = new Semaphore(0);
-    private Semaphore h = new Semaphore(2);
+    private Semaphore oGate = new Semaphore(1);
+    private Semaphore hGate = new Semaphore(2);
+    private Semaphore hQueue = new Semaphore(0);
+    private Semaphore oQueue = new Semaphore(0);
 
     public H2O() {
 
@@ -10,18 +12,24 @@ class H2O {
     public void hydrogen(Runnable releaseHydrogen) throws InterruptedException {
 
         // releaseHydrogen.run() outputs "H". Do not change or remove this line.
-        h.acquire();
+        hGate.acquire();
+        hQueue.release();
+        oQueue.acquire();
+
         releaseHydrogen.run();
-        if (h.availablePermits() == 0) {
-            o.release();
-        }
+        hGate.release();
+
     }
 
     public void oxygen(Runnable releaseOxygen) throws InterruptedException {
 
         // releaseOxygen.run() outputs "O". Do not change or remove this line.
-        o.acquire();
+        oGate.acquire();
+        hQueue.acquire();
+        hQueue.acquire();
+        oQueue.release(2);
+
         releaseOxygen.run();
-        h.release(2);
+        oGate.release();
     }
 }
