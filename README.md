@@ -17,6 +17,7 @@ My solutions to leetcode problems
 | [0169-majority-element](https://github.com/saur1sh/leetcode-solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/saur1sh/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/saur1sh/leetcode-solutions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/saur1sh/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/saur1sh/leetcode-solutions/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/saur1sh/leetcode-solutions/tree/master/0518-coin-change-ii) |
 | [0724-find-pivot-index](https://github.com/saur1sh/leetcode-solutions/tree/master/0724-find-pivot-index) |
@@ -39,6 +40,7 @@ My solutions to leetcode problems
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/saur1sh/leetcode-solutions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/saur1sh/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [2478-longest-nice-subarray](https://github.com/saur1sh/leetcode-solutions/tree/master/2478-longest-nice-subarray) |
 ## Sliding Window
 |  |
@@ -83,6 +85,7 @@ My solutions to leetcode problems
 | [0141-linked-list-cycle](https://github.com/saur1sh/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/saur1sh/leetcode-solutions/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/saur1sh/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0287-find-the-duplicate-number](https://github.com/saur1sh/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0908-middle-of-the-linked-list](https://github.com/saur1sh/leetcode-solutions/tree/master/0908-middle-of-the-linked-list) |
 ## Hash Table
 |  |
@@ -125,6 +128,7 @@ My solutions to leetcode problems
 | ------- |
 | [0162-find-peak-element](https://github.com/saur1sh/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/saur1sh/leetcode-solutions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/saur1sh/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/saur1sh/leetcode-solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Counting
 |  |
@@ -246,4 +250,12 @@ My solutions to leetcode problems
 | [1117-building-h2o](https://github.com/saur1sh/leetcode-solutions/tree/master/1117-building-h2o) |
 | [1195-fizz-buzz-multithreaded](https://github.com/saur1sh/leetcode-solutions/tree/master/1195-fizz-buzz-multithreaded) |
 | [1226-the-dining-philosophers](https://github.com/saur1sh/leetcode-solutions/tree/master/1226-the-dining-philosophers) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/saur1sh/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/saur1sh/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
