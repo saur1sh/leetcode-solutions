@@ -14,14 +14,13 @@ class Solution {
         Set<Integer> set = new HashSet<>();
         while (curr != null) {
             if (set.contains(curr.val)) {
-                while(curr.next!=null && set.contains(curr.next.val)) {
-                   curr = curr.next; 
+                while (curr.next != null && set.contains(curr.next.val)) {
+                    curr = curr.next;
                 }
-                if(curr.next==null) {
+                if (curr.next == null) {
                     prev.next = null;
                     curr = null;
-                }
-                else {
+                } else {
                     next = curr.next;
                     prev.next = curr.next;
                     curr = next;
