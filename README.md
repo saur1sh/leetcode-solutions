@@ -22,6 +22,7 @@ My solutions to leetcode problems
 | [0518-coin-change-ii](https://github.com/saur1sh/leetcode-solutions/tree/master/0518-coin-change-ii) |
 | [0724-find-pivot-index](https://github.com/saur1sh/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0944-delete-columns-to-make-sorted](https://github.com/saur1sh/leetcode-solutions/tree/master/0944-delete-columns-to-make-sorted) |
+| [1089-duplicate-zeros](https://github.com/saur1sh/leetcode-solutions/tree/master/1089-duplicate-zeros) |
 | [2478-longest-nice-subarray](https://github.com/saur1sh/leetcode-solutions/tree/master/2478-longest-nice-subarray) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/saur1sh/leetcode-solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/saur1sh/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -87,6 +88,7 @@ My solutions to leetcode problems
 | [0160-intersection-of-two-linked-lists](https://github.com/saur1sh/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0287-find-the-duplicate-number](https://github.com/saur1sh/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0908-middle-of-the-linked-list](https://github.com/saur1sh/leetcode-solutions/tree/master/0908-middle-of-the-linked-list) |
+| [1089-duplicate-zeros](https://github.com/saur1sh/leetcode-solutions/tree/master/1089-duplicate-zeros) |
 ## Hash Table
 |  |
 | ------- |
