@@ -1,23 +1,20 @@
 class Solution {
     public void duplicateZeros(int[] nums) {
-        int l = 0;
-        int[] ans = new int[nums.length];
+        int zeros = 0;
         for (int i = 0; i < nums.length; i++) {
-            if (l >= nums.length)
-                break;
             if (nums[i] == 0) {
-                ans[l++] = 0;
-                if (l < ans.length) {
-                    ans[l++] = 0;
-                } else {
-                    break;
-                }
-            } else {
-                ans[l++] = nums[i];
+                zeros++;
             }
         }
-        for (int i = 0; i < nums.length; i++) {
-            nums[i] = ans[i];
+        for (int i = nums.length - 1; i >= 0; i--) {
+            if (i + zeros < nums.length) {
+                nums[i + zeros] = nums[i];
+            }
+            if (nums[i] == 0) {
+                zeros--;
+                if (i + zeros < nums.length)
+                    nums[i + zeros] = nums[i];
+            }
         }
     }
 }
