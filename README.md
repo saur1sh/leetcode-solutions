@@ -21,6 +21,7 @@ My solutions to leetcode problems
 | [0287-find-the-duplicate-number](https://github.com/saur1sh/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/saur1sh/leetcode-solutions/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/saur1sh/leetcode-solutions/tree/master/0518-coin-change-ii) |
+| [0713-subarray-product-less-than-k](https://github.com/saur1sh/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/saur1sh/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0944-delete-columns-to-make-sorted](https://github.com/saur1sh/leetcode-solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/saur1sh/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -48,6 +49,7 @@ My solutions to leetcode problems
 ## Sliding Window
 |  |
 | ------- |
+| [0713-subarray-product-less-than-k](https://github.com/saur1sh/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [2478-longest-nice-subarray](https://github.com/saur1sh/leetcode-solutions/tree/master/2478-longest-nice-subarray) |
 ## Divide and Conquer
 |  |
@@ -129,6 +131,7 @@ My solutions to leetcode problems
 ## Prefix Sum
 |  |
 | ------- |
+| [0713-subarray-product-less-than-k](https://github.com/saur1sh/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/saur1sh/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/saur1sh/leetcode-solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Binary Search
@@ -137,6 +140,7 @@ My solutions to leetcode problems
 | [0162-find-peak-element](https://github.com/saur1sh/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/saur1sh/leetcode-solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/saur1sh/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0713-subarray-product-less-than-k](https://github.com/saur1sh/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/saur1sh/leetcode-solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Counting
 |  |
