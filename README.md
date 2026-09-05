@@ -93,6 +93,7 @@ My solutions to leetcode problems
 | [0142-linked-list-cycle-ii](https://github.com/saur1sh/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/saur1sh/leetcode-solutions/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/saur1sh/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/saur1sh/leetcode-solutions/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/saur1sh/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0908-middle-of-the-linked-list](https://github.com/saur1sh/leetcode-solutions/tree/master/0908-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/saur1sh/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -106,6 +107,7 @@ My solutions to leetcode problems
 | [0142-linked-list-cycle-ii](https://github.com/saur1sh/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/saur1sh/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/saur1sh/leetcode-solutions/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/saur1sh/leetcode-solutions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/saur1sh/leetcode-solutions/tree/master/0268-missing-number) |
 | [3531-count-covered-buildings](https://github.com/saur1sh/leetcode-solutions/tree/master/3531-count-covered-buildings) |
 | [3583-count-special-triplets](https://github.com/saur1sh/leetcode-solutions/tree/master/3583-count-special-triplets) |
@@ -163,6 +165,7 @@ My solutions to leetcode problems
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/saur1sh/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/saur1sh/leetcode-solutions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/saur1sh/leetcode-solutions/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/saur1sh/leetcode-solutions/tree/master/0273-integer-to-english-words) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/saur1sh/leetcode-solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -274,5 +277,6 @@ My solutions to leetcode problems
 | ------- |
 | [0141-linked-list-cycle](https://github.com/saur1sh/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/saur1sh/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/saur1sh/leetcode-solutions/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/saur1sh/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
