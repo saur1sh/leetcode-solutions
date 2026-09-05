@@ -1,9 +1,9 @@
 class Solution {
-    private Set<Long> set = new HashSet<>();
+    private Set<Integer> set = new HashSet<>();
 
     public boolean isHappy(int n) {
         while (true) {
-            long sum = 0;
+            int sum = 0;
             while (n > 0) {
                 int newNum = n % 10;
                 sum += (newNum) * (newNum);
@@ -15,7 +15,7 @@ class Solution {
                 return false;
             }
             set.add(sum);
-            n = (int) sum;
+            n = sum;
         }
     }
 }
