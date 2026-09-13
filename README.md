@@ -29,6 +29,7 @@ My solutions to leetcode problems
 | [0944-delete-columns-to-make-sorted](https://github.com/saur1sh/leetcode-solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/saur1sh/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/saur1sh/leetcode-solutions/tree/master/1089-duplicate-zeros) |
+| [2248-intersection-of-multiple-arrays](https://github.com/saur1sh/leetcode-solutions/tree/master/2248-intersection-of-multiple-arrays) |
 | [2478-longest-nice-subarray](https://github.com/saur1sh/leetcode-solutions/tree/master/2478-longest-nice-subarray) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/saur1sh/leetcode-solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/saur1sh/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -118,6 +119,7 @@ My solutions to leetcode problems
 | [0268-missing-number](https://github.com/saur1sh/leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/saur1sh/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/saur1sh/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2248-intersection-of-multiple-arrays](https://github.com/saur1sh/leetcode-solutions/tree/master/2248-intersection-of-multiple-arrays) |
 | [3531-count-covered-buildings](https://github.com/saur1sh/leetcode-solutions/tree/master/3531-count-covered-buildings) |
 | [3583-count-special-triplets](https://github.com/saur1sh/leetcode-solutions/tree/master/3583-count-special-triplets) |
 | [3606-coupon-code-validator](https://github.com/saur1sh/leetcode-solutions/tree/master/3606-coupon-code-validator) |
@@ -136,6 +138,7 @@ My solutions to leetcode problems
 | [0349-intersection-of-two-arrays](https://github.com/saur1sh/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/saur1sh/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/saur1sh/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [2248-intersection-of-multiple-arrays](https://github.com/saur1sh/leetcode-solutions/tree/master/2248-intersection-of-multiple-arrays) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/saur1sh/leetcode-solutions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3433-count-mentions-per-user](https://github.com/saur1sh/leetcode-solutions/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/saur1sh/leetcode-solutions/tree/master/3531-count-covered-buildings) |
@@ -164,6 +167,7 @@ My solutions to leetcode problems
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/saur1sh/leetcode-solutions/tree/master/0169-majority-element) |
+| [2248-intersection-of-multiple-arrays](https://github.com/saur1sh/leetcode-solutions/tree/master/2248-intersection-of-multiple-arrays) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/saur1sh/leetcode-solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3583-count-special-triplets](https://github.com/saur1sh/leetcode-solutions/tree/master/3583-count-special-triplets) |
 ## Heap (Priority Queue)
