@@ -10,7 +10,7 @@ class Solution {
         int op = 0;
         while (!(total <= tar)) {
             double top = pq.poll();
-            double minus = top / 2;
+            double minus = top / 2.0;
             total -= minus;
             pq.add(minus);
             op++;
