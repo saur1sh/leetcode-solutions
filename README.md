@@ -29,6 +29,7 @@ My solutions to leetcode problems
 | [0944-delete-columns-to-make-sorted](https://github.com/saur1sh/leetcode-solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/saur1sh/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/saur1sh/leetcode-solutions/tree/master/1089-duplicate-zeros) |
+| [2208-minimum-operations-to-halve-array-sum](https://github.com/saur1sh/leetcode-solutions/tree/master/2208-minimum-operations-to-halve-array-sum) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/saur1sh/leetcode-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2248-intersection-of-multiple-arrays](https://github.com/saur1sh/leetcode-solutions/tree/master/2248-intersection-of-multiple-arrays) |
 | [2478-longest-nice-subarray](https://github.com/saur1sh/leetcode-solutions/tree/master/2478-longest-nice-subarray) |
@@ -176,6 +177,7 @@ My solutions to leetcode problems
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/saur1sh/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [2208-minimum-operations-to-halve-array-sum](https://github.com/saur1sh/leetcode-solutions/tree/master/2208-minimum-operations-to-halve-array-sum) |
 ## Quickselect
 |  |
 | ------- |
@@ -240,6 +242,7 @@ My solutions to leetcode problems
 ## Greedy
 |  |
 | ------- |
+| [2208-minimum-operations-to-halve-array-sum](https://github.com/saur1sh/leetcode-solutions/tree/master/2208-minimum-operations-to-halve-array-sum) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/saur1sh/leetcode-solutions/tree/master/3075-maximize-happiness-of-selected-children) |
 ## Tree
 |  |
