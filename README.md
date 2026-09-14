@@ -189,6 +189,7 @@ My solutions to leetcode problems
 | [0202-happy-number](https://github.com/saur1sh/leetcode-solutions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/saur1sh/leetcode-solutions/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/saur1sh/leetcode-solutions/tree/master/0273-integer-to-english-words) |
+| [0836-rectangle-overlap](https://github.com/saur1sh/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/saur1sh/leetcode-solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1925-count-square-sum-triples](https://github.com/saur1sh/leetcode-solutions/tree/master/1925-count-square-sum-triples) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/saur1sh/leetcode-solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -216,6 +217,7 @@ My solutions to leetcode problems
 ## Geometry
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/saur1sh/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [3623-count-number-of-trapezoids-i](https://github.com/saur1sh/leetcode-solutions/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/saur1sh/leetcode-solutions/tree/master/3625-count-number-of-trapezoids-ii) |
 ## Breadth-First Search
