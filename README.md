@@ -225,6 +225,7 @@ My solutions to leetcode problems
 ## Breadth-First Search
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/saur1sh/leetcode-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0322-coin-change](https://github.com/saur1sh/leetcode-solutions/tree/master/0322-coin-change) |
 ## Enumeration
 |  |
@@ -253,6 +254,7 @@ My solutions to leetcode problems
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/saur1sh/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/saur1sh/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/saur1sh/leetcode-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/saur1sh/leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/saur1sh/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Depth-First Search
@@ -260,6 +262,7 @@ My solutions to leetcode problems
 | ------- |
 | [0079-word-search](https://github.com/saur1sh/leetcode-solutions/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/saur1sh/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/saur1sh/leetcode-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/saur1sh/leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/saur1sh/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Binary Search Tree
@@ -273,6 +276,7 @@ My solutions to leetcode problems
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/saur1sh/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/saur1sh/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/saur1sh/leetcode-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/saur1sh/leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/saur1sh/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Backtracking
