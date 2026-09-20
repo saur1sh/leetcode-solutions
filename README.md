@@ -197,6 +197,7 @@ My solutions to leetcode problems
 | [0836-rectangle-overlap](https://github.com/saur1sh/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/saur1sh/leetcode-solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1925-count-square-sum-triples](https://github.com/saur1sh/leetcode-solutions/tree/master/1925-count-square-sum-triples) |
+| [2235-add-two-integers](https://github.com/saur1sh/leetcode-solutions/tree/master/2235-add-two-integers) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/saur1sh/leetcode-solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/saur1sh/leetcode-solutions/tree/master/3433-count-mentions-per-user) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/saur1sh/leetcode-solutions/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
