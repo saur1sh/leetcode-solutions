@@ -200,6 +200,7 @@ My solutions to leetcode problems
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/saur1sh/leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3623-count-number-of-trapezoids-i](https://github.com/saur1sh/leetcode-solutions/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/saur1sh/leetcode-solutions/tree/master/3625-count-number-of-trapezoids-ii) |
+| [3726-remove-zeros-in-decimal-representation](https://github.com/saur1sh/leetcode-solutions/tree/master/3726-remove-zeros-in-decimal-representation) |
 ## Memoization
 |  |
 | ------- |
@@ -246,6 +247,7 @@ My solutions to leetcode problems
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/saur1sh/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3433-count-mentions-per-user](https://github.com/saur1sh/leetcode-solutions/tree/master/3433-count-mentions-per-user) |
 | [3498-reverse-degree-of-a-string](https://github.com/saur1sh/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
+| [3726-remove-zeros-in-decimal-representation](https://github.com/saur1sh/leetcode-solutions/tree/master/3726-remove-zeros-in-decimal-representation) |
 ## Greedy
 |  |
 | ------- |
