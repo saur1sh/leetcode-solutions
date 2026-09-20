@@ -211,6 +211,7 @@ My solutions to leetcode problems
 | [0079-word-search](https://github.com/saur1sh/leetcode-solutions/tree/master/0079-word-search) |
 | [0273-integer-to-english-words](https://github.com/saur1sh/leetcode-solutions/tree/master/0273-integer-to-english-words) |
 | [0944-delete-columns-to-make-sorted](https://github.com/saur1sh/leetcode-solutions/tree/master/0944-delete-columns-to-make-sorted) |
+| [3498-reverse-degree-of-a-string](https://github.com/saur1sh/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3606-coupon-code-validator](https://github.com/saur1sh/leetcode-solutions/tree/master/3606-coupon-code-validator) |
 ## Recursion
 |  |
@@ -244,6 +245,7 @@ My solutions to leetcode problems
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/saur1sh/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3433-count-mentions-per-user](https://github.com/saur1sh/leetcode-solutions/tree/master/3433-count-mentions-per-user) |
+| [3498-reverse-degree-of-a-string](https://github.com/saur1sh/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Greedy
 |  |
 | ------- |
