@@ -194,6 +194,7 @@ My solutions to leetcode problems
 | [0202-happy-number](https://github.com/saur1sh/leetcode-solutions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/saur1sh/leetcode-solutions/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/saur1sh/leetcode-solutions/tree/master/0273-integer-to-english-words) |
+| [0415-add-strings](https://github.com/saur1sh/leetcode-solutions/tree/master/0415-add-strings) |
 | [0836-rectangle-overlap](https://github.com/saur1sh/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/saur1sh/leetcode-solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1925-count-square-sum-triples](https://github.com/saur1sh/leetcode-solutions/tree/master/1925-count-square-sum-triples) |
@@ -215,6 +216,7 @@ My solutions to leetcode problems
 | [0017-letter-combinations-of-a-phone-number](https://github.com/saur1sh/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0079-word-search](https://github.com/saur1sh/leetcode-solutions/tree/master/0079-word-search) |
 | [0273-integer-to-english-words](https://github.com/saur1sh/leetcode-solutions/tree/master/0273-integer-to-english-words) |
+| [0415-add-strings](https://github.com/saur1sh/leetcode-solutions/tree/master/0415-add-strings) |
 | [0944-delete-columns-to-make-sorted](https://github.com/saur1sh/leetcode-solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/saur1sh/leetcode-solutions/tree/master/2085-count-common-words-with-one-occurrence) |
 | [3498-reverse-degree-of-a-string](https://github.com/saur1sh/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
@@ -249,6 +251,7 @@ My solutions to leetcode problems
 ## Simulation
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/saur1sh/leetcode-solutions/tree/master/0415-add-strings) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/saur1sh/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3433-count-mentions-per-user](https://github.com/saur1sh/leetcode-solutions/tree/master/3433-count-mentions-per-user) |
 | [3498-reverse-degree-of-a-string](https://github.com/saur1sh/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
