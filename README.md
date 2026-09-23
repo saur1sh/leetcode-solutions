@@ -29,6 +29,7 @@ My solutions to leetcode problems
 | [0944-delete-columns-to-make-sorted](https://github.com/saur1sh/leetcode-solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/saur1sh/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/saur1sh/leetcode-solutions/tree/master/1089-duplicate-zeros) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/saur1sh/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/saur1sh/leetcode-solutions/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/saur1sh/leetcode-solutions/tree/master/2208-minimum-operations-to-halve-array-sum) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/saur1sh/leetcode-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -57,6 +58,7 @@ My solutions to leetcode problems
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/saur1sh/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/saur1sh/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2478-longest-nice-subarray](https://github.com/saur1sh/leetcode-solutions/tree/master/2478-longest-nice-subarray) |
 ## Divide and Conquer
 |  |
@@ -123,6 +125,7 @@ My solutions to leetcode problems
 | [0268-missing-number](https://github.com/saur1sh/leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/saur1sh/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/saur1sh/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/saur1sh/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/saur1sh/leetcode-solutions/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/saur1sh/leetcode-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2248-intersection-of-multiple-arrays](https://github.com/saur1sh/leetcode-solutions/tree/master/2248-intersection-of-multiple-arrays) |
@@ -158,6 +161,7 @@ My solutions to leetcode problems
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/saur1sh/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/saur1sh/leetcode-solutions/tree/master/0724-find-pivot-index) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/saur1sh/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/saur1sh/leetcode-solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Binary Search
 |  |
@@ -168,6 +172,7 @@ My solutions to leetcode problems
 | [0349-intersection-of-two-arrays](https://github.com/saur1sh/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/saur1sh/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0713-subarray-product-less-than-k](https://github.com/saur1sh/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/saur1sh/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/saur1sh/leetcode-solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Counting
 |  |
