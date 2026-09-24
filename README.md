@@ -41,6 +41,7 @@ My solutions to leetcode problems
 | [3432-count-partitions-with-even-sum-difference](https://github.com/saur1sh/leetcode-solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/saur1sh/leetcode-solutions/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/saur1sh/leetcode-solutions/tree/master/3531-count-covered-buildings) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/saur1sh/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/saur1sh/leetcode-solutions/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3583-count-special-triplets](https://github.com/saur1sh/leetcode-solutions/tree/master/3583-count-special-triplets) |
 | [3606-coupon-code-validator](https://github.com/saur1sh/leetcode-solutions/tree/master/3606-coupon-code-validator) |
@@ -206,6 +207,7 @@ My solutions to leetcode problems
 | [2235-add-two-integers](https://github.com/saur1sh/leetcode-solutions/tree/master/2235-add-two-integers) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/saur1sh/leetcode-solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/saur1sh/leetcode-solutions/tree/master/3433-count-mentions-per-user) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/saur1sh/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/saur1sh/leetcode-solutions/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/saur1sh/leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3623-count-number-of-trapezoids-i](https://github.com/saur1sh/leetcode-solutions/tree/master/3623-count-number-of-trapezoids-i) |
